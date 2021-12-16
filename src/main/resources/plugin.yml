@@ -1,0 +1,10 @@
+name: Afkmanager
+version: '${project.version}'
+main: me.jm.afkmanager.Afkmanager
+api-version: 1.18
+authors: [ J_M ]
+commands:
+  afk:
+    usage: /afk
+    permission: afkmanager.afk
+    description: allows players to go afk
